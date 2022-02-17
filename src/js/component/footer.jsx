@@ -5,7 +5,7 @@ function Footer() {
 		<nav class="navbar fixed-bottom navbar-light bg-light">
 			<div class="container-fluid">
 				<a class="navbar-brand" href="#">
-					 bottom 
+					bottom
 				</a>
 			</div>
 		</nav>

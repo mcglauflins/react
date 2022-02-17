@@ -1,11 +1,24 @@
 import React from "react";
 
-function Cards() {
+const Card = (props) => {
+    return  (
+        <div className="col">
+            <div className="card shadow-sm">
+                
+            </div>
+        </div>
+    )
+}
+
+
+
+/*
+    function Cards() {
 	return (
 		<div class="card-group">
 			<div class="card">
 				<img
-					src="https://baconmockup.com/300/200"
+					src="https://www.placecage.com/640/400"
 					class="card-img-top"
 					alt="..."
 				/>
@@ -25,7 +38,7 @@ function Cards() {
 			</div>
 			<div class="card">
 				<img
-					src="https://baconmockup.com/300/200"
+					src="https://www.placecage.com/640/400"
 					class="card-img-top"
 					alt="..."
 				/>
@@ -44,7 +57,7 @@ function Cards() {
 			</div>
 			<div class="card">
 				<img
-					src="https://baconmockup.com/300/200"
+					src="https://www.placecage.com/640/400"
 					class="card-img-top"
 					alt="..."
 				/>
@@ -64,6 +77,7 @@ function Cards() {
 				</div>
 			</div>
 		</div>
-	);
-}
-export default Cards;
+	 );
+    }
+    export default Cards;
+*/

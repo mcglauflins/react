@@ -1,10 +1,10 @@
 import React from "react";
 
 //include images into your bundle
-import React from "react";
+
 import Navbar from "./navbar.jsx";
 import Jumbotron from "./jumbotron.jsx";
-import Cards from "./cards.jsx";
+import Cardcontent from "./cardcontent.jsx";
 import Footer from "./footer.jsx";
 import rigoImage from "../../img/rigo-baby.jpg";
 
